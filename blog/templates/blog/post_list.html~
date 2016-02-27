@@ -1,0 +1,25 @@
+<html>
+
+<CENTER>
+
+<h1> This is my Title blog</h1>
+
+<b> <strong> This is a fat word</b> and a normal
+</br> </strong>
+</br>
+
+<iframe src="https://s.yimg.com/fz/api/res/1.2/uNmOpZu7oXusrcJBsk8mUw--/YXBwaWQ9c3JjaGRkO2g9NzI2O3E9OTU7dz03NzI-/http://www.roflcats.com/images/0197.jpg" width="360" height="300" frameborder="0">
+   <p>Your browser does not support iframes.</p>
+</iframe>
+
+</CENTER>
+
+
+    <p>Hi there!</p>
+    <p>It works!</p>
+
+
+<CENTER>
+ This is the end
+</CENTER>
+</html>
